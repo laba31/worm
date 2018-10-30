@@ -4,10 +4,8 @@ use strict;
 use warnings;
 use v5.10;
 
-use Data::Dumper;
 use Curses;
 use Time::HiRes qw(time);
-use IO::Handle;
 
 
 ##### data ###
